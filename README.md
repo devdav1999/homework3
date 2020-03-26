@@ -1,3 +1,3 @@
 # homework3
 
-This is the updated repository for homework 3 with updated refactors of buil.py.
+This is the updated repository for the personal site with updated refactors of buil.py.
