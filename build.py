@@ -43,8 +43,8 @@ def apply_template(content, title):
 def produce_output(output, full_page):
 	open(output, 'w+').write(full_page)
 
- 
-main()
+if __name__ == "__main__":
+	main()
 
 
 
